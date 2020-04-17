@@ -169,6 +169,18 @@
   color: #f61067;
   margin-left: 35%;
   margin-bottom: 20px;
+  @include media(xs) {
+    font-size: 12px;
+    margin-left: 5%;
+  }
+  @include media(sm) {
+    font-size: 15px;
+    margin-left: 5%;
+  }
+  @include media(md) {
+    font-size: 16px;
+    margin-left: 5%;
+  }
 }
 @mixin aReq {
   width: 157px;

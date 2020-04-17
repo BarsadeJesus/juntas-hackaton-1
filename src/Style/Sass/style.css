@@ -608,6 +608,27 @@ form .select-loan select {
   margin-bottom: 20px;
 }
 
+@media (max-width: 767px) {
+  .h3ColorFuc {
+    font-size: 12px;
+    margin-left: 5%;
+  }
+}
+
+@media (min-width: 767px) and (max-width: 1023px) {
+  .h3ColorFuc {
+    font-size: 15px;
+    margin-left: 5%;
+  }
+}
+
+@media (min-width: 1023px) and (max-width: 1360px) {
+  .h3ColorFuc {
+    font-size: 16px;
+    margin-left: 5%;
+  }
+}
+
 .mr-table {
   margin: 1rem;
   padding: 1rem;

@@ -59,7 +59,7 @@ const Home = () => {
                     </div>
                     <div className="col-md-6">
                         <div className="card-body style">
-                            <h5 className="card-title font-title">Red de Emprendedorass</h5>
+                            <h5 className="card-title font-title">Red de Emprendedoras</h5>
                             <p className="card-text font mb-5">Comparte experiencias, tips y consejos de otras mujeres emprendedoras como tu!.</p>
                             <a className="btn-pink-link font" href="https://omairapalacios.github.io/red-social-juntas/src/ "
                             ><strong>UNIRME A RED DE EMPRENDEDORAS</strong></a>

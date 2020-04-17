@@ -13,7 +13,7 @@ const BanksList = ({
 
     return (
         <div className="mr-table">
-            <h3 className="h3ColorFuc">Elige tu mejor opción</h3>
+            <h3 className="h3ColorFuc font">Elige tu mejor opción</h3>
             <table className="table table-striped table-responsive-sm table-responsive-md ">
                 <thead>
                     <tr className="table-yellow">

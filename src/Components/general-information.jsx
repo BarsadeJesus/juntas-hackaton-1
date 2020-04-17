@@ -69,7 +69,7 @@ const GeneralInformation = () => {
               </td>
                 <td>
                   <select className="input" onChange={typeDoc}>
-                    <option value="">Seleciona</option>
+                    <option value="">Selecciona</option>
                     <option value="dni">DNI</option>
                     <option value="pasaporte">Pasaporte</option>
                     <option value="ce">C.E</option>
